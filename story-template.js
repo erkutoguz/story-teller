@@ -1,0 +1,1 @@
+export default storyTemplate = `Write a {storyLength} duration story about {storyType}. Main character's proffession is {mainCharacterProfession}. Story takes place in the {storyTimeline}. The story should be told in {narratorStyle}, and should have a short but impactful plot where the main character faces a challange. All in JSON field format`;
